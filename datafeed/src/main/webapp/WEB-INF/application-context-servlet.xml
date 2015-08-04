@@ -8,4 +8,4 @@
 	<mvc:annotation-driven />
 	<import resource="services.xml"/>
 	<import resource="data.xml"/>
-</beans>
+</beans> 
